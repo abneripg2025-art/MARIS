@@ -1,4 +1,4 @@
-\# MARIS
+# MARIS
 
 
 
@@ -6,21 +6,21 @@ Um dashboard de risco marítimo em tempo real, baseado nos dados da Copernicus M
 
 
 
-\# Arquitetura do Projeto
+# Arquitetura do Projeto
 
-!\[icon](imagens/maris1.jpg)
-
-
-
-\# Introduction
+![icon](imagens/maris1.jpg)
 
 
 
-\# Development
+# Introduction
 
 
 
-\# Conclusion
+# Development
+
+
+
+# Conclusion
 
 
 
