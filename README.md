@@ -23,9 +23,10 @@ O dashboard possui duas páginas, uma delas foca no monitoramento das embarcaç�
 
 Inicialmente, os dados que seriam utilizados para a formulação desse dashboard seriam extraídos das plataformas da Copernicus Marine Service e EMSA, porém, o docente Paulo Vieira forneceu outro dataset em formato CSV para ser utilizado, que possuía dados referentes a chamados AIS de várias embarcações.
 
-	O dataset fornecido tinha mais de 30.000 entradas, pesando mais de 2GB, portanto, os visuais do Power BI em sua grande maioria não conseguiam lidar com tantos dados, e um tratamento de dados foi efetuado, diminuindo as entradas para cerca de 200 para que os visuais não tivessem nenhum problema para carregar.
+O dataset fornecido tinha mais de 30.000 entradas, pesando mais de 2GB, portanto, os visuais do Power BI em sua grande maioria não conseguiam lidar com tantos dados, e um tratamento de dados foi efetuado, diminuindo as entradas para cerca de 200 para que os visuais não tivessem nenhum problema para carregar.
 
-	Esse dataset não possuía dados referente a embarcações na costa de Portugal, ou de outros lugares da Europa, então, foi decidido focar nos dados referentes a embarcações presentes na costa dos EUA, que formavam a grande maioria dos dados desse dataset. Para manter a coerência, o outro dataset utilizado nesse dashboard também possui apenas dados dos EUA.
+Esse dataset não possuía dados referente a embarcações na costa de Portugal, ou de outros lugares da Europa, então, foi decidido focar nos dados referentes a embarcações presentes na costa dos EUA, que formavam a grande maioria dos dados desse dataset. Para manter a coerência, o outro dataset utilizado nesse dashboard também possui apenas dados dos EUA.
+
 Após a extração e tratamento dos dados do dataset fornecido, a primeira página do dashboard foi montada, utilizando os visuais “Azure Map”, “Advance Card” e “Text Filter”, com os dois últimos sendo visuais obtidos através do “Power BI Visuals”, não estando disponíveis normalmente.
 
 Configurando os campos com os dados corretos do dataset, a primeira página exibia as seguintes informações:
